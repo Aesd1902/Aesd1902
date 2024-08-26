@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aesd1902
+- 👋 Hi, I’m Eswara Satya Dattathreya Alugolu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning AI&DS
 - 💞️ I’m looking to collaborate on top  most companies.
